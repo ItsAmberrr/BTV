@@ -1,0 +1,238 @@
+{
+    "lootSets": [
+        {
+            "name": "SniperPack",
+            "items": [
+                {
+                    "name": "M14",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Mag_M14_20Rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Mag_M14_20Rnd",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Lockpick",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_C4NoWiring",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CJ_Key1",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_Detonator",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "RAWCORE_6b43_Splinter_T3",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "RaidSaw",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "T3",
+            "items": [
+                {
+                    "name": "PITSTOP_AWM_Green",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "PITSTOP_AWM_Magazine",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Lockpick",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_C4Stick",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CJ_Key2",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "RAWCORE_6b43_Camo_Green_T3",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LBS_SleepingPacked_Old_Blue",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_TLDSuperCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ElectronicRepairKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Loot",
+            "items": [
+                {
+                    "name": "RawCore_M240",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "RawCore_Mag_M240_150rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Lockpick",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "evg_keycards_Blue",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LBS_SleepingPacked_Old_Blue",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "RawCore_HeavyPlate_Multicam_Tropic",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "PITSTOP2_DevTacHelmet_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_TLDSuperCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "RaidSaw",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "APack",
+            "items": [
+                {
+                    "name": "PITSTOP_HK417_Black",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "PITSTOP_HK417_Magazine",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_C4Stick",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "ElectronicRepairKit",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Lockpick",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "RAWCORE_6b43_Camo_Black_T3",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "LBS_SleepingPacked_Old_Blue",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_BreachingCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}
